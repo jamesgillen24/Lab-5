@@ -1,0 +1,5 @@
+# This is the expanation
+In order to dry the code I had to run a loop through the transactions.
+I had to keep the final code in order to have the right values but, all of the different lines for transactions is gone.
+I also got rid of the first set of code and replaced it with the code that there is now.
+It is much easier to read and it runs much faster. 
